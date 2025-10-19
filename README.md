@@ -40,6 +40,7 @@ Unlike the Sobel and prewitt edge detector, the Laplacian edge detector uses onl
 
 <a href="url"><img src="output/prewitt_knife.jpg" alt="Prewitt output" align="left" height="200" width="200" ></a> 
 
-<a href="url"><img src="output/lap_butterfly.jpg" alt="Laplacian output" align="left" height="200" width="200" ></a>
+<a href="url"><img src="output/lap_butterfly.jpg" alt="Laplacian output" align="left" height="200" width="200" ></a>  
 
-[***credits***:](https://github.com/abhilas0/edge_detection)
+
+[***credits***](https://github.com/abhilas0/edge_detection)
