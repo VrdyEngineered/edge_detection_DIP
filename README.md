@@ -1,3 +1,6 @@
+# 📸 Digital Image Processing Lab
+This repository contains MATLAB codes, scripts, and resources for all Digital Image Processing (DIP) labs conducted during the course, guided by **[Dr. Tapan Jain](https://www.linkedin.com/in/dr-tapan-jain-18731717/?originalSubdomain=in)** sir.
+
 ## Edge Detection Using Sobel,Prewitt and Laplacian Operator
 
 ### What is an Edge?
